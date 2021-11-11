@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/OnePortfolioToRuleThemAll/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/OnePortfolioToRuleThemAll/static/js/main.568d8763.chunk.js",
+    "main.js.map": "/OnePortfolioToRuleThemAll/static/js/main.568d8763.chunk.js.map",
+    "runtime-main.js": "/OnePortfolioToRuleThemAll/static/js/runtime-main.d3737b03.js",
+    "runtime-main.js.map": "/OnePortfolioToRuleThemAll/static/js/runtime-main.d3737b03.js.map",
+    "static/js/2.a164aeb4.chunk.js": "/OnePortfolioToRuleThemAll/static/js/2.a164aeb4.chunk.js",
+    "static/js/2.a164aeb4.chunk.js.map": "/OnePortfolioToRuleThemAll/static/js/2.a164aeb4.chunk.js.map",
+    "index.html": "/OnePortfolioToRuleThemAll/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/OnePortfolioToRuleThemAll/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a164aeb4.chunk.js.LICENSE.txt": "/OnePortfolioToRuleThemAll/static/js/2.a164aeb4.chunk.js.LICENSE.txt",
+    "static/media/Brandon Sorrell Resume Portfolio 081621.44688f5b.pdf": "/OnePortfolioToRuleThemAll/static/media/Brandon Sorrell Resume Portfolio 081621.44688f5b.pdf",
+    "static/media/ExpressToDo.f04b557d.png": "/OnePortfolioToRuleThemAll/static/media/ExpressToDo.f04b557d.png",
+    "static/media/GeorgiaScreen.66562716.png": "/OnePortfolioToRuleThemAll/static/media/GeorgiaScreen.66562716.png",
+    "static/media/PasswordGen.f6ea4eb3.png": "/OnePortfolioToRuleThemAll/static/media/PasswordGen.f6ea4eb3.png",
+    "static/media/WeatherDash.fab014a5.png": "/OnePortfolioToRuleThemAll/static/media/WeatherDash.fab014a5.png",
+    "static/media/avatar.d5203829.png": "/OnePortfolioToRuleThemAll/static/media/avatar.d5203829.png",
+    "static/media/tuneTime.2a30dfc3.jpg": "/OnePortfolioToRuleThemAll/static/media/tuneTime.2a30dfc3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3737b03.js",
+    "static/js/2.a164aeb4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.568d8763.chunk.js"
+  ]
+}
