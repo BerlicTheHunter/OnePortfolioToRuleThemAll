@@ -48,7 +48,7 @@ function App() {
             <h2> Work </h2>
             <div className= "row white">
               
-              <div className= "col s6 l6"> 
+              <div className= "col s12 l6"> 
                 <div className="card medium hoverable grey lighten-4">
                   <div className="card-image">
                     <a className="hoverable" href="https://skylar-harwell.github.io/Movie_Project/" target="_blank" rel="noopener noreferrer">
@@ -65,7 +65,7 @@ function App() {
                 </div>
               </div>     
               
-              <div className= "col s6 l6"> 
+              <div className= "col s12 l6"> 
                 <div className="card medium hoverable grey lighten-4">
                   <div className="card-image">
                     <a className="hoverable" href="https://tune-time.herokuapp.com/" target="_blank" rel="noopener noreferrer">
