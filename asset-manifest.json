@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OnePortfolioToRuleThemAll/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/OnePortfolioToRuleThemAll/static/js/main.06d9fc74.chunk.js",
-    "main.js.map": "/OnePortfolioToRuleThemAll/static/js/main.06d9fc74.chunk.js.map",
+    "main.js": "/OnePortfolioToRuleThemAll/static/js/main.2b675149.chunk.js",
+    "main.js.map": "/OnePortfolioToRuleThemAll/static/js/main.2b675149.chunk.js.map",
     "runtime-main.js": "/OnePortfolioToRuleThemAll/static/js/runtime-main.d3737b03.js",
     "runtime-main.js.map": "/OnePortfolioToRuleThemAll/static/js/runtime-main.d3737b03.js.map",
     "static/js/2.a164aeb4.chunk.js": "/OnePortfolioToRuleThemAll/static/js/2.a164aeb4.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/PasswordGen.f6ea4eb3.png": "/OnePortfolioToRuleThemAll/static/media/PasswordGen.f6ea4eb3.png",
     "static/media/WeatherDash.fab014a5.png": "/OnePortfolioToRuleThemAll/static/media/WeatherDash.fab014a5.png",
     "static/media/avatar.d5203829.png": "/OnePortfolioToRuleThemAll/static/media/avatar.d5203829.png",
+    "static/media/background.b36e0fd8.jpg": "/OnePortfolioToRuleThemAll/static/media/background.b36e0fd8.jpg",
     "static/media/tuneTime.2a30dfc3.jpg": "/OnePortfolioToRuleThemAll/static/media/tuneTime.2a30dfc3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d3737b03.js",
     "static/js/2.a164aeb4.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.06d9fc74.chunk.js"
+    "static/js/main.2b675149.chunk.js"
   ]
 }
