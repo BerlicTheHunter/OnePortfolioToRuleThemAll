@@ -1,7 +1,7 @@
 import React from 'react';
-import resumeIcon from'../Images/ResumeIcon.png'
-import gitHubIcon from'../Images/GitHub-Mark-64px.png'
-import linkedInIcon from'../Images/LinkedIn64.png'
+import resumeIcon from'./Images/ResumeIcon.png'
+import gitHubIcon from'./Images/GitHub-Mark-64px.png'
+import linkedInIcon from'./Images/LinkedIn64.png'
 import resume from '../Assets/Brandon Sorrell Resume Portfolio 081621.pdf'
 
 export default function Footer() {

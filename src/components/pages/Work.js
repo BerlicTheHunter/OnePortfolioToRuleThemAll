@@ -9,8 +9,8 @@ import gitHubIcon from'../Images/GitHub-Mark-64px.png'
 
 export default function Projects() {
   return(
-    <article className= "work col s12 grey lighten-2" id= "worklink">
-      <h2> Work </h2>
+    <article className= "work col s12 grey lighten-2" >
+      <h2 id= "worklink"> Work </h2>
       <div className= "row ">
         
         <div className= "col s12 l6"> 
